@@ -23,4 +23,4 @@ Wait for SonarQube to start, then run:
 This example runs against the *lts* version of SonarQube (currently SonarQube 8.9).
 
 ## Need further support?
-Contact me if you need help at tom@tomgregory.com.
+Contact me if you need help
